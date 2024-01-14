@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NOTIFICATIONS</title>
+	<style type="text/css">
+		*{
+			margin: 0px;
+			padding: 0px;
+		}
+
+		.content{
+			
+			margin: 100px auto;
+			box-shadow: 1px 1px 10px 2px #333;
+			border-radius: 5px;
+			overflow: hidden;
+			width: 80%;
+   			display: block;
+		}
+		.header{
+			background:green;
+			color: white;
+			padding: 15px 0px; 
+		}
+		.moving-body{
+			padding: 4px;
+			height: 300px;
+		}
+		.m-par{
+			text-align: center;;
+			padding: 8px;
+			border-bottom: 3px solid #afafaf;
+			color: blue;
+			font-size: 24px;
+		}
+
+		ul {
+  list-style-type: none;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+ a:hover { 
+  background-color: #008080;
+}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #4CAF50;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+
+
+		
+	
+	</style>
+</head>
+<body>
+	<ul class="topnav">
+  <li><a class="welcome.php" href="welcome.php" >Home</a></li>
+  <li><a href="gallery.php">Gallery</a></li>
+  <li><a href="">Academic analysis</a></li>
+  <li><a href="">Attendance</a></li>
+  <li><a href="c.php">Teachers Profile</a></li>
+  <li><a href="b.php">Student Profile</a></li>
+  <li><a href="flip.php">Faculty</a></li>
+  <li><a href="notification.php">Notification</a></li>
+</ul>
+
+	<div class="content">
+		<h1 class="header" align="center">NOTIFICATION</h1>
+		<marquee behavior="scroll" direction="up" scrollamount="2" onmouseover="this.setAttribute('scrollamount',0,0); this.stop()";
+			onmouseout="this.setAttribute('scrollamount',4,0); this.start()";
+		  class="moving-body">
+			<script >
+				for(var i=1;i<=1;i++){
+					document.write('<p class="m-par">EXAMS: UNIT- 1: 19/8/19 TO 21/8/19</p>')
+					document.write('<p class="m-par">EXAMS: UNIT- 2: 19/9/19 TO 21/9/19</p>')
+					document.write('<p class="m-par">ANNUAL-MEETING: 21/8/19</p>')
+					document.write('<p class="m-par">PARENTS-TEACHER MEETING 1: 15/8/19</p>')
+					document.write('<p class="m-par">PARENTS-TEACHER MEETING 2: 15/9/19</p>')
+					document.write('<p class="m-par">DEFAULTER-1:20/8/19</p>')
+					document.write('<p class="m-par">DEFAULTER-2:22/10/19</p>')
+					document.write('<p class="m-par">MID TERM SUBMISSION:30/8/19</p>')
+					document.write('<p class="m-par">FINAL SUBMISSION:24/10/19</p>')
+
+				}
+			</script>
+		</marquee>
+	</div>
+</body>
+</html>

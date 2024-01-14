@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+   ul {
+  list-style-type: none;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+.mySlides fade img {
+      
+      width: 100%;
+      height: 100%;
+      transition: width 2s;
+  }
+
+  #logout_btn{
+
+      position: absolute;
+
+        top: 8px;
+
+        right: 16px;
+
+        font-size: 18px;
+
+          }
+              
+              
+              
+      a:hover { 
+  background-color: #008080;
+}
+
+
+  div.polaroid {
+     
+  width: 100%;
+  height: auto;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+   box-shadow: 10px 10px 5px grey;
+   margin-top: 30px;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 73%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-size: 30px;
+}
+
+p{
+ font-size: 25px;
+ margin-top: 25px;
+}
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #4CAF50;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+
+
+</style>
+</head>
+<body>
+ <ul class="topnav">
+  <li><a class="welcome.php" href="welcome.php" >Home</a></li>
+  <li><a href="gallery.php">Gallery</a></li>
+  <li><a href="">Academic analysis</a></li>
+  <li><a href="">Attendance</a></li>
+  <li><a href="c.php">Teachers Profile</a></li>
+  <li><a href="b.php">Student Profile</a></li>
+  <li><a href="flip.php">Faculty</a></li>
+  <li><a href="notification.php">Notification</a></li>
+</ul>
+
+<div class="polaroid">
+  <a target="_blank" href="r9.jpg">
+    <img src="r9.jpg" alt="Cinque Terre" width="600" height= "550" style="width:100%">
+  </a>
+  <div class="desc"><b>Campus</b></div>
+</div>
+
+<div class="polaroid">
+  <a target="_blank" href="r7.jpg">
+    <img src="r7.jpg" alt="Forest" width="600" height="550" style="width:100%">
+  </a>
+  <div class="desc"><b>Chemistry Lab</b></div>
+</div>
+
+<div class="polaroid">
+  <a target="_blank" href="r8.jpg">
+    <img src="r8.jpg" alt="Northern Lights" width="600" height="550" style="width:100%">
+  </a>
+  <div class="desc"><b>Main Building</b></div>
+</div>
+
+<div class="polaroid">
+  <a target="_blank" href="r5.jpg">
+    <img src="r5.jpg" alt="Mountains" width="600" height="550" style="width:100%">
+  </a>
+  <div class="desc"><b>Gst Audi</b></div>
+</div>
+
+<div class="polaroid">
+  <a target="_blank" href="r4.jpeg">
+    <img src="r4.jpeg" alt="Mountains" width="600" height="550" style="width:100%">
+  </a>
+  <div class="desc"><b>Canteen</b></div>
+</div>
+
+<div class="polaroid">
+  <a target="_blank" href="r3.jpg">
+    <img src="r3.jpg" alt="Mountains" width="600" height="550" style="width:100%">
+  </a>
+  <div class="desc"><b>Library</b></div>
+</div>
+
+  <div class="polaroid">
+  <a target="_blank" href="r6.jpg">
+    <img src="r6.jpg" alt="Mountains" width="600" height="550" style="width:100%">
+  </a>
+  <div class="desc"><b>Classroom</b></div>
+</div>
+
+<div class="polaroid">
+  <a target="_blank" href="r14.jpg">
+    <img src="r14.jpg" alt="Mountains" width="600" height="550" style="width:100%">
+  </a>
+  <div class="desc"><b>Events</b></div>
+</div>
+
+</div>
+</body>
+</html>

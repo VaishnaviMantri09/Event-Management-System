@@ -1,0 +1,1700 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if !IE]> --> <html lang="en" dir="ltr"> <!-- <![endif]-->
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="Sh9gyFXKR91vgu1Kv8l_2KRcIFW1-4jaLPYQZ1JrVok" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.covenant.edu/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="The mission of Covenant College is to explore and express the preeminence of Jesus Christ in all things. We offer the world biblically grounded men and women equipped to live out extraordinary callings in ordinary places." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.covenant.edu/" />
+<link rel="shortlink" href="https://www.covenant.edu/" />
+<meta property="og:site_name" content="Covenant College" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.covenant.edu/" />
+<meta property="og:title" content="Covenant College" />
+<meta property="og:description" content="In all things Christ preeminent" />
+<meta property="og:image" content="http://www.covenant.edu/images/shield.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.covenant.edu/" />
+<meta name="twitter:title" content="Covenant College" />
+<meta name="twitter:description" content="In all things Christ preeminent" />
+<meta name="twitter:image" content="http://www.covenant.edu/images/shield.jpg" />
+  <title>Covenant College | In all things Christ preeminent</title>
+
+  <link rel="alternate" type="application/rss+xml" href="/news/archive/newsfeed.xml" title="Covenant College News RSS feed" />
+  <link rel="alternate" type="application/rss+xml" href="/eventsfeed.xml" title="Covenant College Events RSS feed" />
+  <link rel="alternate" type="application/rss+xml" href="/about/employment/jobslist.xml" title="Covenant College Employment Openings RSS feed" />
+
+
+  <link type="text/css" rel="stylesheet" href="https://www.covenant.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.covenant.edu/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.covenant.edu/sites/default/files/css/css_Gwkof5cfIJlnlVgBzenMlYOBcorKS5c--rqtbOo7NRU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.covenant.edu/sites/default/files/css/css_IaFxZDiyoFnBcLhG79tD_awip_rdlqrsFfcj4bCMWlE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.covenant.edu/sites/default/files/css/css_ItZuAlx3bBl_e2b5faf30JtryFYGvmDkdJyNWmSEHV8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.covenant.edu/sites/default/files/css/css_nTr55mbZYlMSsBXnLjRgu7jXCLkPIwg_iGLiIvrYokQ.css" media="print" />
+
+<!-- these loadations moved into OFC.info
+<link href="/sites/all/themes/OFC/css/bootstrap_panels.css" rel="stylesheet">
+<link href="/misc/formstone/shifter/jquery.fs.shifter.css" rel="stylesheet">
+-->
+
+
+
+
+  <script type="text/javascript" src="https://www.covenant.edu/sites/default/files/js/js_fH3VP7wDprjeuMX_iNuAua34ULhu4TLm3iCaREhHy40.js"></script>
+<script type="text/javascript" src="https://www.covenant.edu/sites/default/files/js/js_ZBI_M96oFq25sFHCS1MoBRKHakEPyk7GIXWLmL4EG84.js"></script>
+<script type="text/javascript" src="https://www.covenant.edu/sites/default/files/js/js_dWhBODswdXXk1M5Z5nyqNfGljmqwxUwAK9i6D0YSDNs.js"></script>
+<script type="text/javascript" src="https://www.covenant.edu/sites/default/files/js/js_MoXvSoC1TWo2eVEX3iwklvGlMSYX60oJuk1HT_i-Imc.js"></script>
+<script type="text/javascript" src="https://www.covenant.edu/sites/default/files/js/js_vUZ-wVIcsLFwioDhOjbpDvqZrTNGFUqm4Bd1HfS1VxA.js"></script>
+<script type="text/javascript" src="https://www.covenant.edu/sites/default/files/js/js_xbHfAf9YGTF41qWPRdh0iEHGf-iIYrYp1ZFyCCH-3XY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"OFC","theme_token":"K0T7V8nkoMNSKM8B3eed17pYmFp7eU2t3LDZMprd-SE","js":{"misc\/jquery.js":1,"sites\/all\/themes\/open_framework\/js\/jquery-migrate-1.2.1.min.js":1,"misc\/jquery.form.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"misc\/jquery.cookie.js":1,"misc\/ajax.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/flexslider_views_slideshow\/js\/flexslider_views_slideshow.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/open_framework\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/all\/themes\/OFC\/js\/script.js":1,"sites\/all\/themes\/OFC\/js\/collapsing_divs.js":1,"sites\/all\/themes\/OFC\/js\/mq.js":1,"sites\/all\/themes\/OFC\/js\/jquery.easing.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/ldap\/ldap_user\/ldap_user.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"https:\/\/fonts.googleapis.com\/css?family=Roboto:400,500,700,900":1,"sites\/all\/themes\/open_framework\/bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/bootstrap\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/fontawesome\/css\/all.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/all\/themes\/open_framework\/css\/ie.css":1,"sites\/all\/themes\/OFC\/css\/style.css":1,"sites\/all\/themes\/OFC\/css\/bootstrap_panels.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"viewsSlideshow":{"events_horiz_layout-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0},"events_horiz_layout-block_1_2":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"flexslider_views_slideshow":{"#flexslider_views_slideshow_main_events_horiz_layout-block_1":{"num_divs":36,"id_prefix":"#flexslider_views_slideshow_main_","vss_id":"events_horiz_layout-block_1","namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":220,"itemMargin":20,"minItems":1,"maxItems":4,"move":1,"animation":"slide","slideshow":false,"slideshowSpeed":7000,"directionNav":true,"controlNav":false,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""},"#flexslider_views_slideshow_main_events_horiz_layout-block_1_2":{"num_divs":36,"id_prefix":"#flexslider_views_slideshow_main_","vss_id":"events_horiz_layout-block_1_2","namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":220,"itemMargin":20,"minItems":1,"maxItems":4,"move":1,"animation":"slide","slideshow":false,"slideshowSpeed":7000,"directionNav":true,"controlNav":false,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:8c7675042c9408584b064b7f624b530a":{"view_name":"events_horiz_layout","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"8c7675042c9408584b064b7f624b530a","pager_element":0},"views_dom_id:adfbb2f1da03f40f5f03f5d8d0bb0ea0":{"view_name":"allnewsview_priority1","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"adfbb2f1da03f40f5f03f5d8d0bb0ea0","pager_element":0},"views_dom_id:6f4191b29c1283462839155510e1fc1b":{"view_name":"misccontent_priority2","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"6f4191b29c1283462839155510e1fc1b","pager_element":0},"views_dom_id:c88eb81c185d570492cafe6840b01832":{"view_name":"allnewsview_priority3","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"c88eb81c185d570492cafe6840b01832","pager_element":0},"views_dom_id:1584edc4dcbac5bf860fd7673a9d1e5c":{"view_name":"misccontent_priority3","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"1584edc4dcbac5bf860fd7673a9d1e5c","pager_element":0},"views_dom_id:f819997fe382be91763aa10a8b028d57":{"view_name":"allnewsview_priority4a","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"f819997fe382be91763aa10a8b028d57","pager_element":0},"views_dom_id:ab77c551b7f5e1f8a34c9ec60af051a4":{"view_name":"misccontent_priority5","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"ab77c551b7f5e1f8a34c9ec60af051a4","pager_element":0},"views_dom_id:080e0052b4e924bd75e729494d081335":{"view_name":"misccontent_priority7","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"080e0052b4e924bd75e729494d081335","pager_element":0},"views_dom_id:88501d0c45046451a8417c0a909ba093":{"view_name":"misccontent_priority1","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"88501d0c45046451a8417c0a909ba093","pager_element":0},"views_dom_id:a88db8da9820bdf674605540e589ae87":{"view_name":"allnewsview_priority2","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"a88db8da9820bdf674605540e589ae87","pager_element":0},"views_dom_id:4e9c1c7ae594a3d0f8ca7b322f6bcf0f":{"view_name":"misccontent_priority4","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"4e9c1c7ae594a3d0f8ca7b322f6bcf0f","pager_element":0},"views_dom_id:70144bf123dcb368754c59c69b96e422":{"view_name":"allnewsview_priority4","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"70144bf123dcb368754c59c69b96e422","pager_element":0},"views_dom_id:b8871f9936afbfbc5e50e2891ea68d09":{"view_name":"allnewsview_priority4b","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"b8871f9936afbfbc5e50e2891ea68d09","pager_element":0},"views_dom_id:f4fba9baa1c9e392aab2ff79e0716e3a":{"view_name":"misccontent_priority6","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"f4fba9baa1c9e392aab2ff79e0716e3a","pager_element":0},"views_dom_id:bbea3d78f136603911f63b5469de27c2":{"view_name":"misccontent_priority8","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"bbea3d78f136603911f63b5469de27c2","pager_element":0},"views_dom_id:816ae8a09694b9baa89c629c8a7417a8":{"view_name":"misccontent_priority9","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"816ae8a09694b9baa89c629c8a7417a8","pager_element":0},"views_dom_id:fa9b9d42aec0ec5f8f8614524b977f6d":{"view_name":"events_horiz_layout","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"fa9b9d42aec0ec5f8f8614524b977f6d","pager_element":0},"views_dom_id:9ce05ae1d0f620f976cf5f898703604d":{"view_name":"allnewsview_priority1","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"9ce05ae1d0f620f976cf5f898703604d","pager_element":0},"views_dom_id:5c83face8d2fb034251f2fe4e4d99c46":{"view_name":"misccontent_priority2","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"5c83face8d2fb034251f2fe4e4d99c46","pager_element":0},"views_dom_id:3d4c6586f80bd7c018a54c8061e6c7cf":{"view_name":"allnewsview_priority3","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"3d4c6586f80bd7c018a54c8061e6c7cf","pager_element":0},"views_dom_id:546798b5e3e93e997c56b8a01610667f":{"view_name":"misccontent_priority3","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"546798b5e3e93e997c56b8a01610667f","pager_element":0},"views_dom_id:8c72b1de9e5f1b6ea0e52eddf8b46ba0":{"view_name":"allnewsview_priority4a","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"8c72b1de9e5f1b6ea0e52eddf8b46ba0","pager_element":0},"views_dom_id:0467ce4a0c6861c0b13f98405d8541fc":{"view_name":"misccontent_priority5","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"0467ce4a0c6861c0b13f98405d8541fc","pager_element":0},"views_dom_id:bd4f697fce25471a4574eb0036e87a3f":{"view_name":"misccontent_priority7","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"bd4f697fce25471a4574eb0036e87a3f","pager_element":0},"views_dom_id:d223fd847122835a922a76e5e71a9afb":{"view_name":"misccontent_priority1","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"d223fd847122835a922a76e5e71a9afb","pager_element":0},"views_dom_id:b107c7320321a4d4d60083e6637661a0":{"view_name":"allnewsview_priority2","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"b107c7320321a4d4d60083e6637661a0","pager_element":0},"views_dom_id:6e68a6ef18348becb30f9d9a464c7288":{"view_name":"misccontent_priority4","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"6e68a6ef18348becb30f9d9a464c7288","pager_element":0},"views_dom_id:6379cde7186023962b003f8eeee0dd6a":{"view_name":"allnewsview_priority4","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"6379cde7186023962b003f8eeee0dd6a","pager_element":0},"views_dom_id:49400d7cd7776b4c8f2415ce289758f6":{"view_name":"allnewsview_priority4b","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"49400d7cd7776b4c8f2415ce289758f6","pager_element":0},"views_dom_id:5dbce6abc424281fb769c5e07c01038a":{"view_name":"misccontent_priority6","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"5dbce6abc424281fb769c5e07c01038a","pager_element":0},"views_dom_id:21db33b02b083299f8dfe3cd272f99cb":{"view_name":"misccontent_priority8","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"21db33b02b083299f8dfe3cd272f99cb","pager_element":0},"views_dom_id:b87ccee7b126c6a9d91a121cc1c55e54":{"view_name":"misccontent_priority9","view_display_id":"block_1","view_args":"","view_path":"node\/324","view_base_path":null,"view_dom_id":"b87ccee7b126c6a9d91a121cc1c55e54","pager_element":0}}},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+<script src="https://kit.fontawesome.com/c3e6d38264.js"></script>
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1944747132512678');
+  fbq('track', 'PageView');
+</script>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Slate tracker -->
+<script async="async" src="https://online.covenant.edu/ping">/**/</script>
+
+
+</head>
+
+<body class=" html front not-logged-in no-sidebars page-node page-node- page-node-324 node-type-page       "  >
+
+<!-- more Facebook Pixel Code - must follow body tag or it breaks HTML validation-->
+<noscript><img height="1" width="1" style="display:none"  aria-hidden="true"
+  src="https://www.facebook.com/tr?id=1944747132512678&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+  <div id="page_wrapper">
+  	  	
+<a id="skip"  href="#content" class="element-invisible element-focusable">Skip to content</a>
+<a href="#main-menu"  class="element-invisible element-focusable" data-toggle="collapse">Skip to navigation</a>
+<!-- /#skipnav -->
+
+
+
+
+
+<header class="page-level page-header">
+	<div class="container">
+
+		<div id="page-header-row" class="row page-header-row">
+			<div class="logo">
+			        				        <div id="logo" class="site-logo">
+				        	<a href="https://www.covenant.edu/" title="Home" rel="home">
+				        		<img src="/images/logo/large_blue_logo.png" alt="Covenant College - In all things Christ preeminent" />
+				        	</a>
+				        </div>
+			        	        </div>     <!--     /#logo -->
+			<div class="region region-header clearfix">
+  <div id="block-block-387" class="clearfix block block-block">       <div class="content"> <a  onclick="openNav()" type="button"  title="Menu" id="theSidenavButton" alt="Open navigation sidebar" aria-label="Open navigation sidebar">
+				    		<i alt="Menu icon" class="v-icon fa fa-bars"></i>
+</a>
+
+<!-- <span id="shifter" onclick="openNav()"> <i class="fa fa-bars fasubnav"></i></span> --> </div>
+</div></div>
+ <!-- /.region -->
+
+
+
+			<div id="site-header-top" class="site-header-top"  style="width:30%;">
+				<div id="header_buttons"    style="float:right;">
+					<a  onclick="openSearch()" type="button" title="Search" id="theSearchButton" alt="Open Search form" aria-label="Open Search form">
+				    		<i alt="Search icon" class="v-icon fa fa-search"></i>
+				    </a>
+				    <a  onclick="openNav()" type="button"  title="Menu" id="theSidenavButton" alt="Open navigation sidebar" aria-label="Open navigation sidebar">
+				    		<i alt="Menu icon" class="v-icon fa fa-bars"></i>
+				    </a>
+				</div>
+			</div>
+
+
+
+			<div id="searchblocknav" style="padding-top:16px;">
+				<a href="https://portal.covenant.edu/forms/2?src=rlink" target="_blank" class="capCTA_header orange"><i class="fas fa-laptop">&nbsp;</i>&nbsp;Request Info</a>
+				<a href="https://online.covenant.edu/apply/" target="_blank" class="capCTA_header"><i class="far fa-list-alt">&nbsp;</i>&nbsp;Apply</a>
+				<a href="https://portal.covenant.edu/forms/44?src=rlink" target="_blank" class="capCTA_header"><i class="fas fa-map-marker-alt">&nbsp;</i>&nbsp;Visit</a>
+			</div>
+
+
+
+
+		</div>         <!-- /#page-header-row -->
+	</div>         <!-- /#container -->
+</header>
+
+
+
+<div id="main-menu" class="clearfix site-main-menu">
+	<div class="container">
+		<div class="navbar yamm">
+			<div class="navbar-inner">
+				<div class="container">
+					<ul class="nav navbar-nav">
+
+				       <li class="dropdown yamm-fullwidth">
+				         <a href="/about" class="dropdown-toggle">About</a>
+				       </li>
+
+				       <li class="dropdown yamm-fullwidth">
+				         <a href="/admissions/undergrad" class="dropdown-toggle">Admissions & Aid</a>
+				       </li>
+
+
+				       <li class="dropdown yamm-fullwidth">
+				         <a href="/academics" class="dropdown-toggle">Academics</a>
+				       </li>
+
+
+				       <li class="dropdown yamm-fullwidth">
+				         <a href="/students" class="dropdown-toggle">Student Life</a>
+				       </li>
+
+
+				       <li class="dropdown yamm-fullwidth">
+				         <a href="https://athletics.covenant.edu" class="dropdown-toggle">Athletics</a>
+				       </li>
+
+
+				       <li class="dropdown yamm-fullwidth">
+				         <a href="/alumni"  class="dropdown-toggle">Alumni</a>
+				       </li>
+
+
+				       <li class="dropdown yamm-fullwidth">
+				         <a href="/giving" class="dropdown-toggle">Giving</a>
+				       </li>
+
+				    </ul>
+     			</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+  		    							<div id="CovSearch" class="searchwrap">
+			                                    <div id="nav-search"> <div class="region region-search-box clearfix">
+  <div id="block-search-form" class="clearfix block block-search" role="search">       <div class="content"> <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="input-medium search-query form-text" placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" type="submit" id="edit-submit" name="op" value="" /></div><input type="hidden" name="form_build_id" value="form-kPle11yB74tzORgOZzxdGtsHfHhvTBvlmbKd-U9XADk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+  										</div>
+
+
+<div id="main" class="clearfix main" role="main">
+      <div id="main-top" class="row-fluid main-top"> <div class="region region-main-top clearfix">
+  <div id="block-block-607" class="clearfix block block-block">       <div class="content"> 	<div id="newmain" class="hidden-xs" >
+	    <div id="main-content" class="region clear-block">
+		    <div id="wrapper">
+  	                 <img src="/images/front/carter_orange_sky_800w.jpg" alt="Covenant College, the college of the Presbyterian Church in America in Lookout Mountain, Georgia" style="width:100%; border:none;" />
+	            </div>
+           </div>
+    </div>
+ </div>
+</div><div id="block-block-388" class="clearfix block block-block">       <div class="content"> 	<div id="newmain" hidden-xs >
+	    <div id="main-content" class="region clear-block">
+		    <div id="wrapper">
+
+  	           <img src="/images/front/aerial-2019-8.jpg" alt="Covenant College campus" style="width:100%; border:none;" />
+			            </div>
+           </div>
+    </div>
+
+ </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+    <div class="container">
+            <div id="main-content" class="row-fluid main-content">
+            <div id="content" class="mc-content span12">
+        <div id="content-wrapper" class="content-wrapper">
+          <div id="content-head" class="row-fluid content-head">
+                                                <h1 class="title" id="page-title"> Home Page </h1>
+                                                                                  </div>
+                    <div id="content-top" class="row-fluid content-top"> <div class="region region-content-top clearfix">
+  <div id="block-views-feature-rotator-slota-block-1" class="clearfix block block-views span4">       <div class="content"> <div class="view view-feature-rotator-slota view-id-feature_rotator_slota view-display-id-block_1 view-dom-id-78753a5a0ec72d4cb651717da6be6ff8">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last span12">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="feature_image_block">
+	
+		<img src="/images/features/covenant-360_fall2019.jpg" width="100%" alt="Covenant 360 campus preview weekend" />
+	
+	<br />
+	<div class="feature_caption">
+		<div class="feature_caption_title">
+			<a href="http://www.covenant.edu/360/" target="_blank">Covenant 360</a>
+		</div>
+		<p>Come join us on the mountaintop to experience what life is like as a Covenant College Scot! You'll have the chance to preview all aspects of life at Covenant to help you discover if Covenant is the best place for you.</p>
+	</div>
+</div>
+
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div><div id="block-views-feature-rotator-slotb-block-1" class="clearfix block block-views span4">       <div class="content"> <div class="view view-feature-rotator-slotb view-id-feature_rotator_slotb view-display-id-block_1 view-dom-id-4db83c4d030f216ba598d6b0f71d6656">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last span12">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="news_block_half"><img class="feature_image" src="/sites/default/files/wade_williams.jpg" alt="The late Wade Williams" />
+
+<div class="news_block_half_title"><a href="/news/04.30.19">Wade Williams Worship Scholar</a></div>
+
+<div class="news_block_half_copy">Covenant College is pleased to announce a new scholarship designation in honor of Wade Williams. Read the story to learn more about this new opportunity and about Williams's legacy. </div>
+</div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div><div id="block-views-feature-rotator-slotc-block-1" class="clearfix block block-views span4">       <div class="content"> <div class="view view-feature-rotator-slotc view-id-feature_rotator_slotc view-display-id-block_1 view-dom-id-8a979f8392fb371a00626cdd3b9e3c67">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last span12">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="feature_image_block">
+		<img src="/images/features/student_group.jpg"  alt="Students at Covenant College" width="100%" />
+	<br />
+	<div class="feature_caption">
+		<div class="feature_caption_title">
+			<a href="https://soundcloud.com/covenantcollege/a-place-students-can-embrace-dr-matt-vos" target="_blank">A Place Students Can Embrace</a>
+		</div>
+		<p>Listen as Dr. Matt Vos describes the continuity new students will find between home & family, their church, and the Covenant College community.</p>
+	</div>
+</div>
+
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                              <div id="content-upper" class="row-fluid content-upper"> <div class="region region-content-upper clearfix">
+  <div id="block-block-623" class="clearfix block block-block">       <div class="content"> <style>
+  #parallax_facts {
+      margin-left: 0px !important ;
+  } 
+
+  .factbox {
+           background-color: rgba(255,255,255,0.90);
+            padding:16px 8px;
+            margin:0px;
+            border-radius: 8px;
+           margin-bottom: 16px;
+  }
+
+  .fact {
+      font-size:3em;
+       color:#003e71;
+       text-align:center;
+       margin-bottom: 12px; 
+       margin-top: 9px;
+       font-weight:bold;
+  }
+
+  .factcaption {
+     font-size:1.3em;
+      color:#003e71;
+      text-align:center;
+      line-height:1.4em;
+     font-weight: bold;
+  }
+
+@media (max-width: 980px) {
+  .fact {
+      font-size: 2.6em;
+  } 
+  .factcaption {
+       font-size:1em;
+        line-height:1.1em;
+  }
+}
+
+  .wide-row30 {
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+  }
+</style>
+
+<div id="parallax_facts" class="wide-row30 bg-ltblue span12" style="background: url(https://www.covenant.edu/sites/default/files/students_faculty_staff.jpg) no-repeat center top; background-size:cover; background-attachment:fixed;">
+      
+      <div class="xspan12" >
+               <h2 style="color:#badbf3; text-shadow: 2px 2px 2px black; font-size: 38px; font-weight: bold;">Fast Facts</h2>
+
+               <div style="clear:both; height: 12px;">&nbsp;</div>
+
+	       <div class="span3 factbox" style="margin-left:0px;">
+	         <p class="fact">13:1</p>
+	         <p class="factcaption">student-faculty ratio<br /></p>
+	       </div>
+		 
+	       <div class="span3 factbox">
+	         <p class="fact">99%</p>
+	         <p class="factcaption">of students receive<br /> financial aid</p>
+	       </div>
+
+	       <div class="span3 factbox">
+	         <p class="fact">95%</p>
+	         <p class="factcaption">of alumni regularly attend church</p>
+	       </div>
+
+	       <div class="span3 factbox">
+	         <p class="fact">83%</p>
+	         <p class="factcaption">of students live on campus</p>
+	       </div>
+
+
+
+               <div style="clear:both; height: 32px;">&nbsp;</div>
+
+	       <div class="span3 factbox" style="margin-left:0px;">
+	         <p class="fact">18</p>
+	         <p class="factcaption">average class size</p>
+	       </div>
+		 
+	       <div class="span3 factbox">
+	         <p class="fact">978</p>
+	         <p class="factcaption">total undergraduate students</p>
+	       </div>
+
+	       <div class="span3 factbox">
+	         <p class="fact">100%</p>
+	         <p class="factcaption">of students participate in service learning</p>
+	       </div>
+
+	       <div class="span3 factbox">
+	         <p class="fact">24%</p>
+	         <p class="factcaption">of undergraduates were homeschooled</p>
+	       </div>
+
+
+
+
+               <div style="clear:both; height: 20px;">&nbsp;</div>
+
+        </div>
+
+</div>
+
+
+
+
+
+
+ </div>
+</div><div id="block-views-events-horiz-layout-block-1" class="clearfix block block-views">       <div class="content"> <div class="view view-events-horiz-layout view-id-events_horiz_layout view-display-id-block_1 view-dom-id-8c7675042c9408584b064b7f624b530a">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="flexslider_views_slideshow_main_events_horiz_layout-block_1" class="flexslider_views_slideshow_main views_slideshow_main"><div class="flex-nav-container">
+  <div class="flexslider">
+    <ul id="flexslider_views_slideshow_events_horiz_layout-block_1" class="flexslider-views-slideshow-main-frame slides">
+        <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-1 views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/23">New Student Orientation, Fall 2019</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Aug 23</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/29">First Day of Classes, Fall 2019</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Thursday, Aug 29</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/30">Chapel: Chaplain Grant Lowe, Covenant College</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Aug 30</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/30-2">Cross Country vs. Mountaintop Invitational</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Aug 30</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/30-1">Women&#039;s Soccer at Centre </a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Aug 30</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/30-0">Men&#039;s Soccer vs. Randolph (at Maryville, TN)</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Aug 30</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/30-3">Volleyball at Birmingham Southern</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Aug 30</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-8 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/31-0">Volleyball vs. St. Catherine (at Birmingham, Ala.)</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Aug 31</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-9 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/31">Men&#039;s Soccer vs. Southern Virginia (at Maryville, TN)</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Aug 31</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-10 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/08/31-1">Volleyball vs. Rhodes (at Birmingham, Ala.)</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Aug 31</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-11 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/02">Chapel: Chaplain Grant Lowe, Covenant College</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Monday, Sep 2</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-12 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/04">Chapel: Chaplain Grant Lowe, Covenant College</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Wednesday, Sep 4</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-13 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/04-0">JV Men&#039;s Soccer at Tennessee Wesleyan JV</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Wednesday, Sep 4</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-14 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/04-1">Women&#039;s Soccer at Sewanee </a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Wednesday, Sep 4</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-15 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/05">JV Women&#039;s Soccer vs. Bryan JV</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Thursday, Sep 5</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-16 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/06">Chapel: President J. Derek Halvorson, Covenant College</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Sep 6</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-17 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/06-1">Volleyball vs. Transylvania (at Mount Berry, Ga.)</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Sep 6</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-18 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/06-0">Men&#039;s Soccer vs. Berry</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Sep 6</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-19 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/07-0">Women&#039;s Soccer vs. Salem</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Sep 7</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-20 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/07-1">Volleyball vs. Emory (at Mount Berry, Ga.)</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Sep 7</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-21 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/07-2">Volleyball vs. Rhodes (at Mount Berry, Ga.)</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Sep 7</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-22 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/07">Men&#039;s Soccer at Sewanee</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Sep 7</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-23 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/09">Chapel: Reverend Joe Novenson, Lookout Mountain Presbyterian Church</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Monday, Sep 9</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-24 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/09-0">JV Men&#039;s Soccer vs. Trevecca Nazarene JV</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Monday, Sep 9</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-25 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/10">Women&#039;s Soccer vs. Birmingham Southern</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Tuesday, Sep 10</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-26 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/10-0">Volleyball at Trevecca Nazarene</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Tuesday, Sep 10</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-27 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/11">Chapel: Stephanie Formenti, Covenant College</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Wednesday, Sep 11</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-28 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/11-1">JV Women&#039;s Soccer vs. Tennessee Wesleyan JV</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Wednesday, Sep 11</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-29 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/11-2">JV Volleyball at Bryan JV</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Wednesday, Sep 11</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-30 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/12">JV Men&#039;s Soccer vs. Bryan JV</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Thursday, Sep 12</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-31 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/13">Chapel: Dr. Brad Voyles, Covenant College</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Sep 13</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-32 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/13-0">JV Volleyball vs. Walters State</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Friday, Sep 13</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-33 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/14-0">Women&#039;s Soccer at Belhaven</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Sep 14</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-34 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/14-2">Volleyball vs. Oglethorpe</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Sep 14</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-35 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/14-1">JV Volleyball vs. Oglethorpe JV</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Sep 14</span></span>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-36 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content event_title"><a href="/calendar/all/2019/09/14">Men&#039;s Soccer at Brevard</a></div>  </div>  
+  <div class="views-field views-field-field-time">        <span class="field-content event_date"><span class="date-display-single">Saturday, Sep 14</span></span>  </div>  </li>
+    </ul>
+  </div>
+</div></div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                              <div id="content-body" class="row-fluid content-body"><div class="region region-content clearfix">
+  <div id="block-system-main" class="clearfix block block-system">       <div class="content">  </div>
+</div></div>
+ <!-- /.region -->
+  </div>
+                                        <div id="content-col2" class="row-fluid content-col2">
+                        <div class="span6">
+              <div id="content-col2-1" class="span12 clearfix clear-row"> <div class="region region-content-col2-1 clearfix">
+  <div id="block-views-misccontent-priority2-block-1" class="clearfix block block-views">       <div class="content"> <div class="view view-misccontent-priority2 view-id-misccontent_priority2 view-display-id-block_1 view-dom-id-6f4191b29c1283462839155510e1fc1b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="feature_image_block">
+<!--
+<div class="video-player">
+<iframe width="100%" src="https://www.youtube.com/embed/hy258FDGC3E?rel=0&amp;showinfo=0&autohide=1"  allowfullscreen title="Mountain Views" ></iframe>
+</div>
+-->
+<a href="https://www.youtube.com/watch?v=KhQ_i4RWza0" target="_blank">
+ 	    <img src="/images/features/chapel-highlights.jpg" class="feature_image" alt="Chapel highlights video" >
+</a>
+	<br />
+
+<div class="news_block_half_title"><a href="https://www.youtube.com/watch?v=KhQ_i4RWza0" target="_blank">Chapel 2018-19 Year-in-Review</a></div>
+
+<div class="news_block_half_copy">Enjoy this video retrospective of highlights from chapel speakers during the 2018-19 academic year.</div>
+
+</div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div><div id="block-views-allnewsview-priority3-block-1" class="clearfix block block-views">       <div class="content"> <div class="view view-allnewsview-priority3 view-id-allnewsview_priority3 view-display-id-block_1 view-dom-id-c88eb81c185d570492cafe6840b01832">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="news_block_half"><img class="feature_image" src="/images/news/Aline_Sluis.jpg" alt="Nicholas Barker competition winner Aline Sluis" />
+
+<div class="news_block_half_title"><a href="/news/04.09.19">Inaugural Nicholas Barker Short Fiction Competition Winners</a></div>
+
+<div class="news_block_half_copy">Covenant recently celebrated the winners of the inaugural Nicholas Barker Short Fiction competition. First prize was awarded to Aline Sluis ’20”,  and runner-up was awarded to Katherine Scott ’19.</div>
+</div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div><div id="block-views-misccontent-priority3-block-1" class="clearfix block block-views">       <div class="content"> <div class="view view-misccontent-priority3 view-id-misccontent_priority3 view-display-id-block_1 view-dom-id-1584edc4dcbac5bf860fd7673a9d1e5c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="feature_image_block">
+<!--
+<div class="video-player">
+<iframe width="100%" src="https://www.youtube.com/embed/hy258FDGC3E?rel=0&amp;showinfo=0&autohide=1"  allowfullscreen title="Mountain Views" ></iframe>
+</div>
+-->
+<a href="https://www.youtube.com/watch?v=BZaJFsdNcVA" target="_blank">
+ <img src="/images/features/viewpoints.jpg" class="feature_image" alt="VIEWpoints with Prof. Heath Garris" />
+</a>
+	<br />
+
+<div class="news_block_half_title"><a href="https://www.youtube.com/watch?v=BZaJFsdNcVA" target="_blank">How Should the Church Respond to Climate Change?</a></div>
+
+<div class="news_block_half_copy">In this initial episode of VIEWpoints, listen to Dr. Heath Garris, assistant professor of biology, discuss the science and politics of climate change and how the church can respond to the challenges of this potentially divisive issue.</div>
+
+</div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div><div id="block-views-misccontent-priority5-block-1" class="clearfix block block-views">       <div class="content"> <div class="view view-misccontent-priority5 view-id-misccontent_priority5 view-display-id-block_1 view-dom-id-ab77c551b7f5e1f8a34c9ec60af051a4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="feature_image_block">
+<!--
+<div class="video-player">
+<iframe width="100%" src="https://www.youtube.com/embed/hy258FDGC3E?rel=0&amp;showinfo=0&autohide=1"  allowfullscreen title="Mountain Views" ></iframe>
+</div>
+-->
+<a href="https://www.youtube.com/watch?time_continue=2&v=hy258FDGC3E" target="_blank">
+        <picture>
+            <source media="(max-width: 480px)" srcset="/images/features/mountain_views_still_400w.jpg">
+            <source media="(max-width: 768px)" srcset="/images/features/mountain_views_still_680w.jpg">
+	    <img src="/images/features/mountain_views_still_680w.jpg" class="feature_image" alt="Mountain views video on YouTube" >
+      </picture>
+</a>
+	<br />
+
+<div class="news_block_half_title"><a href="https://www.youtube.com/watch?v=hy258FDGC3E" target="_blank">Mountain Views</a></div>
+
+<div class="news_block_half_copy">Ever wonder what it's like to live and study on top of a mountain? Picture yourself on Lookout Mountain. Picture yourself at Covenant College. </div>
+
+</div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+            </div>
+                                    <div class="span6">
+              <div id="content-col2-2" class="span12 clearfix clear-row"> <div class="region region-content-col2-2 clearfix">
+  <div id="block-views-misccontent-priority1-block-1" class="clearfix block block-views">       <div class="content"> <div class="view view-misccontent-priority1 view-id-misccontent_priority1 view-display-id-block_1 view-dom-id-88501d0c45046451a8417c0a909ba093">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="feature_image_block">
+<!--
+<div class="video-player">
+<iframe width="100%" src="https://www.youtube.com/embed/hy258FDGC3E?rel=0&amp;showinfo=0&autohide=1"  allowfullscreen title="Mountain Views" ></iframe>
+</div>
+-->
+<a href="https://www.youtube.com/watch?v=qWm8myzgerw" target="_blank">
+ 	    <img src="/images/features/pre-med_video.jpg" class="feature_image" alt="Dr. Tim Morris" >
+</a>
+	<br />
+
+<div class="news_block_half_title"><a href="https://www.youtube.com/watch?v=qWm8myzgerw" target="_blank">Studying Pre-Med at Covenant College</a></div>
+
+<div class="news_block_half_copy">Dr. Tim Morris advises prospective students who are interested in Covenant's pre-med program.</div>
+
+</div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div><div id="block-views-misccontent-priority4-block-1" class="clearfix block block-views">       <div class="content"> <div class="view view-misccontent-priority4 view-id-misccontent_priority4 view-display-id-block_1 view-dom-id-4e9c1c7ae594a3d0f8ca7b322f6bcf0f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="feature_image_block">
+   <a href="https://www.youtube.com/watch?v=HAIQK8ctGLk" target="_blank">
+   <picture>
+      <img src="/images/features/Kapic_chapel.jpg" class="feature_image" alt="Dr.  Kelly Kapic speaking in chapel" >
+    </picture>
+    </a>
+	<br />
+	<div class="feature_caption">
+		<div class="feature_caption_title">
+			<a href="https://www.youtube.com/watch?v=HAIQK8ctGLk" target="_blank">Why Covenant College? The Urgent Need for Christian Liberal Arts Education</a>
+		</div>
+		<p>"God is not exalted by lessening your loves. The Christian path is not loving less, it's loving more and rightly...Our goal is not to love less but more."<br /><em> – Dr. Kelly Kapic</em></p>
+	</div>
+</div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div><div id="block-views-misccontent-priority6-block-1" class="clearfix block block-views">       <div class="content"> <div class="view view-misccontent-priority6 view-id-misccontent_priority6 view-display-id-block_1 view-dom-id-f4fba9baa1c9e392aab2ff79e0716e3a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="feature_image_block">
+      <img src="/images/features/Trey-Wood.jpg" class="feature_image" alt="Trey Wood" >
+	<br />
+	<div class="feature_caption">
+		<div class="feature_caption_title">
+			<a href="https://athletics.covenant.edu/sports/mten/2018-19/releases/20190405foulql" target="_blank">In My Words: Trey Wood</a>
+		</div>
+		<p>“Overall, Covenant has been an incredible place to be a student-athlete due to the rigorous academics, coaches willing to invest in their players, and the opportunity to grow your faith alongside great people.”<br />&nbsp;&nbsp;- <em>Trey Wood'19, Covenant tennis</em></p>
+	</div>
+</div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div><div id="block-views-misccontent-priority8-block-1" class="clearfix block block-views">       <div class="content"> <div class="view view-misccontent-priority8 view-id-misccontent_priority8 view-display-id-block_1 view-dom-id-bbea3d78f136603911f63b5469de27c2">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-feature">        <div class="field-content"><div class="feature_image_block">
+	<img src="/images/features/landing/be-known_675w.jpg" width="100%" alt="" class="feature_image" />
+	<br />
+	<div class="feature_caption">
+		<div class="feature_caption_title">
+			<a href="https://www.covenant.edu/landing/beknown?src=edu" target="_blank" >Be Known by Your Professors</a>
+		</div>
+		<p>“I love the small student-faculty ratio. It is so comforting to walk around campus and see your professors and for them to be able to call you by name. They are eager to assist, and on this small campus, they are genuinely approachable.”<br />&nbsp;&nbsp;- <em>Anna Nicklow '20</em></p>
+	</div>
+</div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+            </div>
+                      </div>
+                                                                              </div>
+        <!-- /#content-wrap -->
+      </div>
+      <!-- /#content -->
+          </div>
+        
+
+  </div> <!-- main -->
+
+<div id="footer" class="clearfix site-footer" role="contentinfo">
+    <div id="xfooter-content" class="row-fluid xfooter-content">
+    	<div class="region region-footer clearfix">
+  <div id="block-block-392" class="clearfix block block-block">       <div class="content"> <!-- <div id="majors">
+<li><a class="majors_title" href="/academics/undergrad" >Majors &amp; Programs</a>
+</div>
+-->
+
+<h2 id="majors">
+<strong><a class="majors_title" href="/academics/undergrad" >Majors &amp; Programs</a></strong>
+</h2>
+
+<div class="row-fluid">
+<ul>
+<div class="span3 clearfix">
+
+<li><a href="/academics/undergrad/art">Art</a></li>
+<li><a href="/academics/undergrad/bible">Biblical & Theological Studies</a></li>
+<li><a href="/academics/undergrad/biology">Biology</a></li>
+<li><a href="/academics/undergrad/business">Business</a></li>
+<li><a href="/academics/undergrad/chemistry">Chemistry</a></li>
+<li><a href="/academics/undergrad/ecd">Community Development</a></li>
+<li><a href="/academics/undergrad/cs">Computer Science</a></li>
+</div>
+
+<div class="span3 clearfix">
+
+<li><a href="/academics/undergrad/ecd">Economics</a></li>
+<li><a href="/academics/undergrad/education">Education</a></li>
+<li><a href="/academics/undergrad/engineering">Engineering 3:2 Program</a></li>
+<li><a href="/academics/undergrad/english">English</a></li>
+<li><a href="/academics/undergrad/foreign">Foreign Language</a></li>
+<li><a href="http://grad.covenant.edu/" target="_blank">Graduate School of Education</a></li>
+<li><a href="/academics/undergrad/history">History</a></li>
+<li><a href="/academics/undergrad/ids">Interdisciplinary Studies</a></li>
+</div>
+
+<div class="span3 clearfix">
+
+<li><a href="/academics/undergrad/international">International Studies</a></li>
+<li><a href="/academics/undergrad/mathematics">Mathematics</a></li>
+<li><a href="/academics/undergrad/music">Music</a></li>
+<li><a href="/academics/undergrad/naturalscience">Natural Science</a></li>
+<li><a href="/academics/undergrad/philosophy">Philosophy</a></li>
+<li><a href="/academics/undergrad/physical_ed">Physical & Sport Education</a></li>
+<li><a href="/academics/undergrad/physics">Physics</a></li>
+<li><a href="/academics/undergrad/history">Political Science</a></li>
+</div>
+
+
+<div class="span3 clearfix">
+
+<li><a href="/academics/undergrad/pre-law">Pre-Law</a></li>
+<li><a href="/academics/undergrad/pre-medical">Pre-Medical Studies</a></li>
+<li><a href="/academics/undergrad/pre-nursing">Pre-Nursing Studies</a></li>
+<li><a href="/academics/undergrad/pre-physicaltherapy">Pre-Physical Therapy</a></li>
+<li><a href="/academics/undergrad/psychology">Psychology</a></li>
+<li><a href="/academics/undergrad/sociology">Sociology</a></li>
+<li><a href="/academics/undergrad/theatre">Theatre</a></li>
+</div>
+</ul>
+</div> <!-- row-fluid -->
+
+
+
+
+
+<!-- <div id="majors">
+<a class="majors_title" href="/academics/undergrad" >Majors &amp; Programs</a>
+</div>
+-->
+
+<!--
+<h2 id="majors">
+<strong><a class="majors_title" href="/academics/undergrad" >Majors &amp; Programs</a></strong>
+</h2>
+
+<div class="row-fluid">
+<div class="span3 clearfix">
+<br />
+<a href="/academics/undergrad/art">Art</a><br />
+<a href="/academics/undergrad/bible">Biblical & Theological Studies</a><br />
+<a href="/academics/undergrad/biology">Biology</a><br />
+<a href="/academics/undergrad/business">Business</a><br />
+<a href="/academics/undergrad/chemistry">Chemistry</a><br />
+<a href="/academics/undergrad/ecd">Community Development</a><br />
+<a href="/academics/undergrad/cs">Computer Science</a><br />
+</div>
+
+<div class="span3 clearfix">
+<br />
+<a href="/academics/undergrad/ecd">Economics</a><br />
+<a href="/academics/undergrad/education">Education</a><br />
+<a href="/academics/undergrad/engineering">Engineering 3:2 Program</a><br />
+<a href="/academics/undergrad/english">English</a><br />
+<a href="/academics/undergrad/foreign">Foreign Language</a><br />
+<a href="/academics/undergrad/history">History & Politics</a><br />
+<a href="/academics/undergrad/ids">Interdisciplinary Studies</a><br />
+</div>
+
+<div class="span3 clearfix">
+<br />
+<a href="/academics/undergrad/international">International Studies</a><br />
+<a href="/academics/undergrad/mathematics">Mathematics</a><br />
+<a href="/academics/undergrad/music">Music</a><br />
+<a href="/academics/undergrad/naturalscience">Natural Science</a><br />
+<a href="/academics/undergrad/philosophy">Philosophy</a><br />
+<a href="/academics/undergrad/physical_ed">Physical & Sport Education</a><br />
+<a href="/academics/undergrad/physics">Physics</a><br />
+</div>
+
+
+<div class="span3 clearfix">
+<br />
+<a href="/academics/undergrad/pre-law">Pre-Law</a><br />
+<a href="/academics/undergrad/pre-medical">Pre-Medical Studies</a><br />
+<a href="/academics/undergrad/pre-nursing">Pre-Nursing Studies</a><br />
+<a href="/academics/undergrad/pre-physicaltherapy">Pre-Physical Therapy</a><br />
+<a href="/academics/undergrad/psychology">Psychology</a><br />
+<a href="/academics/undergrad/sociology">Sociology</a><br />
+<a href="/academics/undergrad/theatre">Theatre</a><br />
+</div>
+
+</div>
+--> <!-- row-fluid --> </div>
+</div>
+<div id="block-block-395" class="clearfix block block-block">       <div class="content"> <div class="answer">
+	<h2 class="h7" style="color: #003e71; font-family: Egyptienne,Georgia; font-size: 20px; line-height: 113%; font-weight: 600; margin-top; 10px; text-decoration: none;">
+		Majors &amp; Programs&nbsp;&nbsp;<a  ><i class="fa fa-bars"></i></a>
+	</h2>
+
+	<div class="answer_content">
+		<div class="span3">
+			<ul>
+                       <br />
+			<li><a href="/academics/undergrad/art">Art</a></li>
+			<li><a href="/academics/undergrad/bible">Biblical & Theological Studies</a></li>
+			<li><a href="/academics/undergrad/biology">Biology</a></li>
+			<li><a href="/academics/undergrad/business">Business</a></li>
+			<li><a href="/academics/undergrad/chemistry">Chemistry</a></li>
+			<li><a href="/academics/undergrad/ecd">Community Development</a></li>
+			<li><a href="/academics/undergrad/cs">Computer Science</a></li>
+			<li><a href="/academics/undergrad/ecd">Economics</a></li>
+			<li><a href="/academics/undergrad/education">Education</a></li>
+			<li><a href="/academics/undergrad/engineering">Engineering 3:@ Program</a></li>
+			<li><a href="/academics/undergrad/english">English</a></li>
+			<li><a href="/academics/undergrad/foreign">Foreign Language</a></li>
+			<li><a href="http://grad.covenant.edu/" target="_blank">Graduate School of Education</a></li>
+                        <li><a href="/academics/undergrad/history">History</a></li>
+			<li><a href="/academics/undergrad/ids">Interdisciplinary Studies</a></li>
+			<li><a href="/academics/undergrad/international">International Studies</a></li>
+			<li><a href="/academics/undergrad/mathematics">Mathematics</a></li>
+			<li><a href="/academics/undergrad/music">Music</a></li>
+			<li><a href="/academics/undergrad/naturalscience">Natural Science</a></li>
+			<li><a href="/academics/undergrad/philosophy">Philosophy</a></li>
+			<li><a href="/academics/undergrad/physical_ed">Physical & Sport Education</a></li>
+			<li><a href="/academics/undergrad/physics">Physics</a></li>
+                        <li><a href="/academics/undergrad/history">Political Science</a></li>
+			<li><a href="/academics/undergrad/pre-law">Pre-Law</a></li>
+			<li><a href="/academics/undergrad/pre-medical">Pre-Medical Studies</a></li>
+			<li><a href="/academics/undergrad/pre-nursing">Pre-Nursing Studies</a></li>
+			<li><a href="/academics/undergrad/pre-physicaltherapy">Pre-Physical Therapy</a></li>
+			<li><a href="/academics/undergrad/psychology">Psychology</a></li>
+			<li><a href="/academics/undergrad/sociology">Sociology</a></li>
+			<li><a href="/academics/undergrad/theatre">Theatre</a></li>
+			<br />
+                        </ul>
+		</div>
+	</div>
+</div>
+
+
+
+<!--
+<div class="answer">
+	<h2 class="h7" style="color: #003e71; font-family: Egyptienne,Georgia; font-size: 20px; line-height: 113%; font-weight: 600; margin-top; 10px; text-decoration: none;">
+		Majors &amp; Programs&nbsp;&nbsp;<a href="#" ><i class="fa fa-bars"></i></a>
+	</h2>
+
+	<div class="answer_content">
+		<div class="span3">
+			<br />
+			<a href="/academics/undergrad/art">Art</a><br />
+			<a href="/academics/undergrad/bible">Biblical & Theological Studies</a><br />
+			<a href="/academics/undergrad/biology">Biology</a><br />
+			<a href="/academics/undergrad/business">Business</a><br />
+			<a href="/academics/undergrad/chemistry">Chemistry</a><br />
+			<a href="/academics/undergrad/ecd">Community Development</a><br />
+			<a href="/academics/undergrad/cs">Computer Science</a><br />
+			<a href="/academics/undergrad/ecd">Economics</a><br />
+			<a href="/academics/undergrad/education">Education</a><br />
+			<a href="/academics/undergrad/engineering">Engineering 3:@ Program</a><br />
+			<a href="/academics/undergrad/english">English</a><br />
+			<a href="/academics/undergrad/foreign">Foreign Language</a><br />
+			<a href="/academics/undergrad/history">History & Politics</a><br />
+			<a href="/academics/undergrad/ids">Interdisciplinary Studies</a><br />
+			<a href="/academics/undergrad/international">International Studies</a><br />
+			<a href="/academics/undergrad/mathematics">Mathematics</a><br />
+			<a href="/academics/undergrad/music">Music</a><br />
+			<a href="/academics/undergrad/naturalscience">Natural Science</a><br />
+			<a href="/academics/undergrad/philosophy">Philosophy</a><br />
+			<a href="/academics/undergrad/physical_ed">Physical & Sport Education</a><br />
+			<a href="/academics/undergrad/physics">Physics</a><br />
+			<a href="/academics/undergrad/pre-law">Pre-Law</a><br />
+			<a href="/academics/undergrad/pre-medical">Pre-Medical Studies</a><br />
+			<a href="/academics/undergrad/pre-nursing">Pre-Nursing Studies</a><br />
+			<a href="/academics/undergrad/pre-physicaltherapy">Pre-Physical Therapy</a><br />
+			<a href="/academics/undergrad/psychology">Psychology</a><br />
+			<a href="/academics/undergrad/sociology">Sociology</a><br />
+			<a href="/academics/undergrad/theatre">Theatre</a><br />
+			<br />
+		</div>
+	</div>
+</div>
+--> </div>
+</div>
+<div id="block-block-393" class="clearfix block block-block">       <div class="content"> <h2 id="majors">
+<a class="majors_title" href="/academics/undergrad" >Majors &amp; Programs</a>
+</h2>
+
+
+<div class="row-fluid">
+<ul>
+<div class="span6 clearfix">
+<br />
+<li><a href="/academics/undergrad/art">Art</a></li>
+<li><a href="/academics/undergrad/bible">Biblical & Theological Studies</a></li>
+<li><a href="/academics/undergrad/biology">Biology</a></li>
+<li><a href="/academics/undergrad/business">Business</a></li>
+<li><a href="/academics/undergrad/chemistry">Chemistry</a></li>
+<li><a href="/academics/undergrad/ecd">Community Development</a></li>
+<li><a href="/academics/undergrad/cs">Computer Science</a></li>
+<li><a href="/academics/undergrad/ecd">Economics</a></li>
+<li><a href="/academics/undergrad/education">Education</a></li>
+<li><a href="/academics/undergrad/engineering">Engineering 3:2 Program</a></li>
+<li><a href="/academics/undergrad/english">English</a></li>
+<li><a href="/academics/undergrad/foreign">Foreign Language</a></li>
+<li><a href="http://grad.covenant.edu/" target="_blank">Graduate School of Education</a></li>
+<li><a href="/academics/undergrad/history">History</a></li>
+<li><a href="/academics/undergrad/ids">Interdisciplinary Studies</a></li>
+</div>
+
+<div class="span6 clearfix">
+<br />
+<li><a href="/academics/undergrad/international">International Studies</a></li>
+<li><a href="/academics/undergrad/mathematics">Mathematics</a></li>
+<li><a href="/academics/undergrad/music">Music</a></li>
+<li><a href="/academics/undergrad/naturalscience">Natural Science</a></li>
+<li><a href="/academics/undergrad/philosophy">Philosophy</a></li>
+<li><a href="/academics/undergrad/physical_ed">Physical & Sport Education</a></li>
+<li><a href="/academics/undergrad/physics">Physics</a></li>
+<li><a href="/academics/undergrad/history">Political Science</a></li>
+<li><a href="/academics/undergrad/pre-law">Pre-Law</a></li>
+<li><a href="/academics/undergrad/pre-medical">Pre-Medical Studies</a></li>
+<li><a href="/academics/undergrad/pre-nursing">Pre-Nursing Studies</a></li>
+<li><a href="/academics/undergrad/pre-physicaltherapy">Pre-Physical Therapy</a></li>
+<li><a href="/academics/undergrad/psychology">Psychology</a></li>
+<li><a href="/academics/undergrad/sociology">Sociology</a></li>
+<li><a href="/academics/undergrad/theatre">Theatre</a></li>
+</div>
+</ul>
+</div>
+
+
+
+<!--
+<h2 id="majors">
+<a class="majors_title" href="/academics/undergrad" >Majors &amp; Programs</a>
+</h2>
+
+
+<div class="row-fluid">
+<div class="span6 clearfix">
+<br />
+<a href="/academics/undergrad/art">Art</a><br />
+<a href="/academics/undergrad/bible">Biblical & Theological Studies</a><br />
+<a href="/academics/undergrad/biology">Biology</a><br />
+<a href="/academics/undergrad/business">Business</a><br />
+<a href="/academics/undergrad/chemistry">Chemistry</a><br />
+<a href="/academics/undergrad/ecd">Community Development</a><br />
+<a href="/academics/undergrad/cs">Computer Science</a><br />
+<a href="/academics/undergrad/ecd">Economics</a><br />
+<a href="/academics/undergrad/education">Education</a><br />
+<a href="/academics/undergrad/engineering">Engineering 3:2 Program</a><br />
+<a href="/academics/undergrad/english">English</a><br />
+<a href="/academics/undergrad/foreign">Foreign Language</a><br />
+<a href="/academics/undergrad/history">History & Politics</a><br />
+<a href="/academics/undergrad/ids">Interdisciplinary Studies</a><br />
+</div>
+
+<div class="span6 clearfix">
+<br />
+<a href="/academics/undergrad/international">International Studies</a><br />
+<a href="/academics/undergrad/mathematics">Mathematics</a><br />
+<a href="/academics/undergrad/music">Music</a><br />
+<a href="/academics/undergrad/naturalscience">Natural Science</a><br />
+<a href="/academics/undergrad/philosophy">Philosophy</a><br />
+<a href="/academics/undergrad/physical_ed">Physical & Sport Education</a><br />
+<a href="/academics/undergrad/physics">Physics</a><br />
+<a href="/academics/undergrad/pre-law">Pre-Law</a><br />
+<a href="/academics/undergrad/pre-medical">Pre-Medical Studies</a><br />
+<a href="/academics/undergrad/pre-nursing">Pre-Nursing Studies</a><br />
+<a href="/academics/undergrad/pre-physicaltherapy">Pre-Physical Therapy</a><br />
+<a href="/academics/undergrad/psychology">Psychology</a><br />
+<a href="/academics/undergrad/sociology">Sociology</a><br />
+<a href="/academics/undergrad/theatre">Theatre</a><br />
+</div>
+
+</div> --><!-- row-fluid -->
+ </div>
+</div>
+<div id="block-block-394" class="clearfix block block-block">       <div class="content"> <h2 id="majors">
+<a class="majors_title" href="/academics/undergrad" >Majors &amp; Programs</a>
+</h2>
+
+
+<div class="row-fluid">
+<ul>
+<div class="span4 clearfix">
+<br />
+<li><a href="/academics/undergrad/art">Art</a></li>
+<li><a href="/academics/undergrad/bible">Biblical & Theological Studies</a></li>
+<li><a href="/academics/undergrad/biology">Biology</a></li>
+<li><a href="/academics/undergrad/business">Business</a></li>
+<li><a href="/academics/undergrad/chemistry">Chemistry</a></li>
+<li><a href="/academics/undergrad/ecd">Community Development</a></li>
+<li><a href="/academics/undergrad/cs">Computer Science</a></li>
+<li><a href="/academics/undergrad/ecd">Economics</a></li>
+<li><a href="/academics/undergrad/education">Education</a></li>
+</div>
+
+<div class="span4 clearfix">
+<br />
+<li><a href="/academics/undergrad/engineering">Engineering 3:2 Program</a></li>
+<li><a href="/academics/undergrad/english">English</a></li>
+<li><a href="/academics/undergrad/foreign">Foreign Language</a></li>
+<li><a href="http://grad.covenant.edu/" target="_blank">Graduate School of Education</a></li>
+<li><a href="/academics/undergrad/history">History</a></li>
+<li><a href="/academics/undergrad/ids">Interdisciplinary Studies</a></li>
+<li><a href="/academics/undergrad/international">International Studies</a></li>
+<li><a href="/academics/undergrad/mathematics">Mathematics</a></li>
+<li><a href="/academics/undergrad/music">Music</a></li>
+<li><a href="/academics/undergrad/naturalscience">Natural Science</a></li>
+</div>
+
+
+<div class="span4 clearfix">
+<br />
+<li><a href="/academics/undergrad/philosophy">Philosophy</a></li>
+<li><a href="/academics/undergrad/physical_ed">Physical & Sport Education</a></li>
+<li><a href="/academics/undergrad/physics">Physics</a></li>
+<li><a href="/academics/undergrad/history">Political Science</a></li>
+<li><a href="/academics/undergrad/pre-law">Pre-Law</a></li>
+<li><a href="/academics/undergrad/pre-medical">Pre-Medical Studies</a></li>
+<li><a href="/academics/undergrad/pre-nursing">Pre-Nursing Studies</a></li>
+<li><a href="/academics/undergrad/pre-physicaltherapy">Pre-Physical Therapy</a></li>
+<li><a href="/academics/undergrad/psychology">Psychology</a></li>
+<li><a href="/academics/undergrad/sociology">Sociology</a></li>
+<li><a href="/academics/undergrad/theatre">Theatre</a></li>
+</div>
+</ul>
+</div> <!-- row-fluid -->
+
+
+
+
+<!--
+<h2 id="majors">
+<a class="majors_title" href="/academics/undergrad" >Majors &amp; Programs</a>
+</h2>
+
+
+<div class="row-fluid">
+<div class="span4 clearfix">
+<br />
+<a href="/academics/undergrad/art">Art</a><br />
+<a href="/academics/undergrad/bible">Biblical & Theological Studies</a><br />
+<a href="/academics/undergrad/biology">Biology</a><br />
+<a href="/academics/undergrad/business">Business</a><br />
+<a href="/academics/undergrad/chemistry">Chemistry</a><br />
+<a href="/academics/undergrad/ecd">Community Development</a><br />
+<a href="/academics/undergrad/cs">Computer Science</a><br />
+<a href="/academics/undergrad/ecd">Economics</a><br />
+<a href="/academics/undergrad/education">Education</a><br />
+</div>
+
+<div class="span4 clearfix">
+<br />
+<a href="/academics/undergrad/engineering">Engineering 3:2 Program</a><br />
+<a href="/academics/undergrad/english">English</a><br />
+<a href="/academics/undergrad/foreign">Foreign Language</a><br />
+<a href="/academics/undergrad/history">History & Politics</a><br />
+<a href="/academics/undergrad/ids">Interdisciplinary Studies</a><br />
+<a href="/academics/undergrad/international">International Studies</a><br />
+<a href="/academics/undergrad/mathematics">Mathematics</a><br />
+<a href="/academics/undergrad/music">Music</a><br />
+<a href="/academics/undergrad/naturalscience">Natural Science</a><br />
+</div>
+
+
+<div class="span4 clearfix">
+<br />
+<a href="/academics/undergrad/philosophy">Philosophy</a><br />
+<a href="/academics/undergrad/physical_ed">Physical & Sport Education</a><br />
+<a href="/academics/undergrad/physics">Physics</a><br />
+<a href="/academics/undergrad/pre-law">Pre-Law</a><br />
+<a href="/academics/undergrad/pre-medical">Pre-Medical Studies</a><br />
+<a href="/academics/undergrad/pre-nursing">Pre-Nursing Studies</a><br />
+<a href="/academics/undergrad/pre-physicaltherapy">Pre-Physical Therapy</a><br />
+<a href="/academics/undergrad/psychology">Psychology</a><br />
+<a href="/academics/undergrad/sociology">Sociology</a><br />
+<a href="/academics/undergrad/theatre">Theatre</a><br />
+</div>
+
+</div> --> <!-- row-fluid -->
+ </div>
+</div>
+<div id="block-block-622" class="clearfix block block-block block-no-bottom-margin">       <div class="content"> <div class="col-sm-12 CTA_ribbon">
+				<div class="span3 gridbuttons" style="background-color:#dd5a00; margin-left:0px; "><a href="/admissions/undergrad/apply?src=ribbon" style="color: #ffffff ;">Steps to Apply</a></div>
+				<div class="span3 gridbuttons" style="background-color:#B8D7A0;  margin-left:0px; "><a href="https://covenant.edu/360?src=ribbon" target="_blank"  style="color: #003e71 !important;">Covenant 360</a></div>
+				<div class="span3 gridbuttons"  style="background-color:#87bef0;  margin-left:0px; "><a href="https://portal.covenant.edu/forms/2?src=ribbon" target="_blank"  style="color: #003e71 !important;">Request Info</a></div>
+				<div class="span3 gridbuttons"  style="background-color:#006699; margin-left:0px; "><a href="/about/faq?src=ribbon"  style="color: #ffffff ;">FAQ</a></div>
+</div>
+
+ </div>
+</div>
+<div id="block-block-620" class="clearfix block block-block">       <div class="content"> <div id="megafooter_mission_wrapper" class="span12" style="padding: 20px;" >
+
+   <div class="span3">
+      <div id="formshield"  style="margin: 30px auto 30px auto;
+  	text-align: center;
+  	clear: none;
+        padding: 12px;
+  	">
+          <img src="/images/megafooter_logo_color.png"  alt="" />
+     </div>
+  </div>
+
+
+
+<div class="span9" style="text-align:left;">
+<h2 style="color:#ffffff; margin-top:14px;">Questions About Covenant?</h2>
+<p style="margin-bottom:12px;">Use this quick form to contact us and an admissions counselor will get back to you ASAP.</p>
+<div id="form_a7288946-0544-43d3-be15-d689aac38db7">Loading...</div><script>/*<![CDATA[*/var script = document.createElement('script'); script.async = 1; script.src = 'https://online.covenant.edu/register/?id=a7288946-0544-43d3-be15-d689aac38db7&output=embed&div=form_a7288946-0544-43d3-be15-d689aac38db7' + ((location.search.length > 1) ? '&' + location.search.substring(1) : ''); var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);/*]]>*/</script></div>
+
+
+
+<div id="mission" class="span12" style="margin: 40px auto 10px auto;
+	text-align: center;
+	clear: both;
+	font-size: 17px;
+	line-height: 20px;" >
+
+
+<span class="linebreaker">The mission of Covenant College is to explore and express</span>
+<span class="linebreaker"> the preeminence of Jesus Christ in all things. We offer the world biblically</span>
+<span class="linebreaker"> grounded men and women equipped to live out extraordinary callings in ordinary places.</span>
+</div>
+
+
+</div>
+ </div>
+</div>
+<div id="block-block-397" class="clearfix block block-block">       <div class="content"> 			<div id="social" class="span12">
+					<a href="http://facebook.covenant.edu" target="_blank"><img  class="social_icon "  src="/images/icons/retina/facebook/x3.png"  style="width:30px;"  alt="open Covenant on Facebook" title="Covenant on Facebook"   /></a>
+					<a href="http://youtube.covenant.edu" target="_blank"><img  class="social_icon " src="/images/icons/retina/youtube/x3.png" style="width:30px;" alt="open Covenant on YouTube" title="Covenant on YouTube"  /></a>
+					<a href="http://instagram.com/covenantcollege" target="_blank"><img  class="social_icon " src="/images/icons/retina/instagram/x3.png"  style="width:30px;"  alt="open Covenant on Instagram" title="Covenant on Instagram"  /></a>
+					<a href="http://twitter.covenant.edu" target="_blank"><img class="social_icon " src="/images/icons/retina/twitter/x3.png"   style="width:30px;"  alt="open Covenant on Twitter" title="Covenant on Twitter"  /></a>
+					<a href="/podcast"><img  class="social_icon " src="/images/icons/podcast/podcast.jpg"  style="width:30px;"  alt="view a list of Covenant Podcast Platforms" title="Covenant Podcast Platforms"  /></a>
+					<a href="http://www.linkedin.com/edu/covenant-college-18151" target="_blank"><img  class="social_icon " src="/images/icons/retina/linkedin/x3.png" style="width:30px;"   alt="open Covenant on LinkedIn" title="Covenant on LinkedIn"  /></a>
+<br />
+<span class="hastag_links">#CovenantCollege&nbsp;&nbsp;#WeAreTheScots
+</span>
+			</div>
+
+
+<div  id="bottomfooter" class="span12 clearfix">
+<span class="linebreaker">
+	  <a href="https://www.google.com/maps/d/viewer?mid=18PYzGGXNTnRKM8hk9rMTMWhHWlY&hl=en&ll=34.959606610952555%2C-85.37794770000005&z=16" target="_blank">14049 Scenic Highway, Lookout Mountain, Georgia 30750</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/contact">706.820.1560</a>
+</span>
+<span class="linebreaker">
+	   <a href="/contact">Contact</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	   <a href="https://portal.covenant.edu/forms/2?src=footer" target="_blank">Request Information</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+          <a href="mailto:web_admin@covenant.edu?subject=main site feedback">Feedback</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        <a href="/accessibility">Web Accessibility</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        <a href="/consumer">Consumer Information</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+         <a href="/about/privacy">Privacy Policy </a>
+</span>
+
+
+<div class="linebreaker">
+<p style="margin: 10px 10%;"><em>Covenant College does not discriminate on the basis of race, color, gender, national and ethnic origin, age, or disability in admissions or other programs.</em></p>
+</div>
+
+<span class="linebreaker">
+<a href="/about/copyright">&copy; 2019 Covenant College </a>
+</span>
+
+<p>&nbsp;</p>
+
+<a href="#" id="backtotop" class="backtotop"><i class="fa fa-angle-up"></i><br />Back to top</a>
+</div>
+
+<p>&nbsp;</p> </div>
+</div>
+<div id="block-block-398" class="clearfix block block-block">       <div class="content"> 			<div id="social" class="span12">
+					<a href="http://facebook.covenant.edu" target="_blank"><img  class="social_icon "  src="/images/icons/retina/facebook/x3.png"  style="width:30px;" alt="Covenant on Facebook" title="Covenant on Facebook"   /></a>
+					<a href="http://twitter.covenant.edu" target="_blank"><img class="social_icon " src="/images/icons/retina/twitter/x3.png"   style="width:30px;"  alt="Covenant on Twitter" title="Covenant on Twitter"  /></a>
+					<a href="http://instagram.com/covenantcollege" target="_blank"><img  class="social_icon " src="/images/icons/retina/instagram/x3.png"  style="width:30px;"  alt="Covenant on Instagram" title="Covenant on Instagram"  /></a>
+					<a href="http://youtube.covenant.edu" target="_blank"><img  class="social_icon " src="/images/icons/retina/youtube/x3.png" style="width:30px;"   alt="Covenant on YouTube" title="Covenant on YouTube"  /></a>
+					<a href="/podcast"><img  class="social_icon " src="/images/icons/podcast/podcast.jpg"  style="width:30px;"  alt="Covenant Podcast Platforms" title="Covenant Podcast Platforms"  /></a>
+					<a href="http://www.linkedin.com/edu/covenant-college-18151" target="_blank"><img  class="social_icon " src="/images/icons/retina/linkedin/x3.png" style="width:30px;"   alt="Covenant on LinkedIn" title="Covenant on LinkedIn"  /></a>
+<br />
+<span class="hastag_links">#CovenantCollege&nbsp;&nbsp;#WeAreTheScots
+</span>
+			</div>
+
+
+<div  id="bottomfooter" class="span12 clearfix">
+
+	  <a href="https://www.google.com/maps/d/viewer?mid=18PYzGGXNTnRKM8hk9rMTMWhHWlY&hl=en&ll=34.959606610952555%2C-85.37794770000005&z=16" target="_blank">14049 Scenic Highway, Lookout Mountain, GA</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/contact">706.820.1560</a>
+<br />
+	   <a href="/contact">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	   <a href="https://portal.covenant.edu/forms/2?src=footer" target="_blank">Request Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="mailto:web_admin@covenant.edu?subject=main site feedback">Feedback</a>
+<br />
+<a href="/consumer">Consumer Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="/accessibility">Web Accessibility</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="/about/privacy">Privacy Policy </a>
+<br />
+
+
+<div class="linebreaker">
+<p style="margin: 10px 10%;"><em>Covenant College does not discriminate on the basis of race, color, gender, national and ethnic origin, age, or disability in admissions or other programs.</em></p>
+</div>
+
+<a href="/about/copyright">&copy; 2019 Covenant College </a>
+
+
+<p>&nbsp;</p>
+
+<a href="#" id="backtotop" class="backtotop"><i class="fa fa-angle-up"></i><br />Back to top</a>
+</div>
+
+<p>&nbsp;</p> </div>
+</div>
+<div id="block-block-399" class="clearfix block block-block">       <div class="content"> 			<div id="social" class="span12">
+					<a href="http://facebook.covenant.edu" target="_blank"><img  class="social_icon "  src="/images/icons/retina/facebook/x3.png"  style="width:30px;"  alt="Covenant on Facebook" title="Covenant on Facebook"   /></a>
+					<a href="http://twitter.covenant.edu" target="_blank"><img class="social_icon " src="/images/icons/retina/twitter/x3.png"   style="width:30px;" alt="Covenant on Twitter" title="Covenant on Twitter"  /></a>
+					<a href="http://instagram.com/covenantcollege" target="_blank"><img  class="social_icon " src="/images/icons/retina/instagram/x3.png"  style="width:30px;"  alt="Covenant on Instagram" title="Covenant on Instagram"  /></a> 
+					<a href="http://youtube.covenant.edu" target="_blank"><img  class="social_icon " src="/images/icons/retina/youtube/x3.png" style="width:30px;"  alt="Covenant on YouTube" title="Covenant on YouTube"  /></a>
+					<a href="/podcast"><img  class="social_icon " src="/images/icons/podcast/podcast.jpg"  style="width:30px;"  alt="Covenant Podcast Platforms" title="Covenant Podcast Platforms"  /></a>
+					<a href="http://www.linkedin.com/edu/covenant-college-18151" target="_blank"><img  class="social_icon " src="/images/icons/retina/linkedin/x3.png"  style="width:30px;" alt="Covenant on LinkedIn" title="Covenant on LinkedIn"  /></a>
+<br />
+<span class="hastag_links">#CovenantCollege&nbsp;&nbsp;#WeAreTheScots
+</span>
+			</div>
+
+
+<div  id="bottomfooter" class="span12 clearfix">
+
+	  <a href="https://www.google.com/maps/d/viewer?mid=18PYzGGXNTnRKM8hk9rMTMWhHWlY&hl=en&ll=34.959606610952555%2C-85.37794770000005&z=16" target="_blank">14049 Scenic Highway <br />
+Lookout Mountain, Georgia 30750</a>
+<br />
+           <a href="/contact">706.820.1560</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	   <a href="/contact">Contact</a>
+<br />
+	   <a href="https://portal.covenant.edu/forms/2?src=footer" target="_blank">Request Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+           <a href="mailto:web_admin@covenant.edu?subject=main site feedback">Feedback</a>
+<br />
+<a href="/consumer">Consumer Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="/accessibility">Web Accessibility</a>
+<br />
+<a href="/about/privacy">Privacy Policy </a>
+<br />
+
+
+<div class="linebreaker">
+<p style="margin: 10px 10%;"><em>Covenant College does not discriminate on the basis of race, color, gender, national and ethnic origin, age, or disability in admissions or other programs.</em></p>
+</div>
+
+<a href="/about/copyright">&copy; 2019 Covenant College </a>
+
+
+<p>&nbsp;</p>
+
+<a href="#" id="backtotop"  class="backtotop"><i class="fa fa-angle-up"></i><br />Back to top</a>
+</div>
+
+<p>&nbsp;</p> </div>
+</div>
+</div>
+ <!-- /.region -->
+    </div>
+</div>
+<!-- /#footer -->
+
+
+</div> <!-- container -->
+
+
+  	  </div>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-136294-1', 'auto');
+  ga(function(tracker) {
+	  ga('set', 'dimension1', tracker.get('clientId'));
+	  ga('send', 'pageview');
+      console.log(tracker.get('clientId'));
+  });
+
+
+</script>
+
+
+
+
+
+  		    							<nav id="CovSidenav" class="sidenav">
+  		    								<div class="sidenav-wrapper">
+
+									           <!-- <div id="nav-search" class="nav-search clearfix">
+										            	<div id="block-search-form--2" class="clearfix block block-search" role="search">       <div class="content"> <form action="/" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." class="input-medium search-query form-text" placeholder="Search..." type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input class="btn-search form-submit" type="submit" id="edit-submit--2" name="op" value="" /></div><input type="hidden" name="form_build_id" value="form-4BFOn5B1a2OmWnAeDbDmmlobv9E2NEmxOXULltGmhq0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form> </div>
+</div>									            </div> -->
+
+
+												<div class="sidenav_icons">
+													<a href="/search/node" aria-label="Open search form">
+														<i alt="Open search form" class="fa fa-search">&nbsp;</i>
+													</a>
+
+													<a class="closebtn" onclick="closeNav()" aria-label="Close this sidebar">
+														<i alt="Close this sidebar" class="fa fa-times">&nbsp;</i>
+													</a>
+												</div>
+
+  												<div style="clear:both;">&nbsp;</div>
+
+  												<div class="sidenav_menu">
+
+	  												<a href="https://portal.covenant.edu/forms/44?src=rlink" target="_blank" class="capCTA">&nbsp;<i class="fas fa-map-marker-alt">&nbsp;</i>&nbsp;Visit</a>
+	  												<a href="https://online.covenant.edu/apply/" target="_blank" class="capCTA"><i class="far fa-list-alt">&nbsp;</i>&nbsp;Apply</a>
+	  												<a href="https://portal.covenant.edu/forms/2?src=rlink" target="_blank" class="capCTA orange"><i class="fas fa-laptop">&nbsp;</i>&nbsp;Request Info</a>
+
+
+													<hr class="sidenav_divider" />
+
+	  												<a href="/about">About</a>
+	  												<a href="/admissions/undergrad">Admissions & Aid</a>
+	  												<a href="/academics">Academics</a>
+	  												<a href="/students">Student Life</a>
+
+													<hr class="sidenav_divider" />
+
+	  												<a href="/resources/students_faculty_staff">Scots Resources</a>
+	  												<a href="/resources/future_students">Future Students</a>
+	  												<a href="/resources/parents">Parents & Family</a>
+
+													<hr class="sidenav_divider" />
+
+	  												<a href="/calendar">Calendar</a>
+	  												<a href="/news/archive">News</a>
+	  												<a href="https://athletics.covenant.edu/">Athletics</a>
+	  												<a href="/alumni">Alumni</a>
+	  												<a href="/giving">Giving</a>
+
+													<p>&nbsp;</p>
+													<p>&nbsp;</p>
+												</div>
+
+  											</div>
+  										</nav>
+
+
+
+<script>
+function openNav() {
+  document.getElementById("CovSidenav").style.width = "260px";
+}
+
+function closeNav() {
+  document.getElementById("CovSidenav").style.width = "0";
+}
+
+function openSearch() {
+  document.getElementById("CovSearch").style.height = "100px";
+  document.getElementById("theSearchButton").onclick = function() {closeSearch()};
+  document.getElementById("theSearchButton").innerHTML ='<i aria-hidden="true" class="v-icon fa fa-times"></i>';
+  document.getElementById("edit-search-block-form--2").focus();
+}
+
+function closeSearch() {
+  document.getElementById("CovSearch").style.height = "0";
+  document.getElementById("theSearchButton").onclick = function() {openSearch()};
+  document.getElementById("theSearchButton").innerHTML ='<i aria-hidden="true" class="v-icon fa fa-search"></i>';
+}
+</script>
+
+
+<!-- tracking outbound clicks as events in GA -->
+<script async type="text/javascript">
+    function _gaLt(event) {
+
+        /* If GA is blocked or not loaded then don't track */
+        if (!ga.hasOwnProperty("loaded") || ga.loaded != true) {
+            return;
+        }
+
+        var el = event.srcElement || event.target;
+
+        /* Loop up the DOM tree through parent elements if clicked element is not a link (eg: an image inside a link) */
+        while (el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href)) {
+            el = el.parentNode;
+        }
+
+        /* if a link has been clicked */
+        if (el && el.href) {
+
+            var link = el.href;
+
+            /* Only if it is an external link */
+            if (link.indexOf(location.host) == -1 && !link.match(/^javascript\:/i)) {
+                /* Is target set and not _(self|parent|top)? */
+                var target = (el.target && !el.target.match(/^_(self|parent|top)$/i)) ? el.target : false;
+
+                var hbrun = false; // tracker has not yet run
+
+                /* HitCallback to open link in same window after tracker */
+                var hitBack = function() {
+                    /* run once only */
+                    if (hbrun) return;
+                    hbrun = true;
+                    window.location.href = link;
+                };
+
+                /* If target opens a new window then just track */
+                if (el.target && !el.target.match(/^_(self|parent|top)$/i)) {
+                    ga(
+                        "send", "event", "Outgoing Links", link,
+                        document.location.pathname + document.location.search
+                    );
+                } else {
+                    /* send event with callback */
+                    ga(
+                        "send", "event", "Outgoing Links", link,
+                        document.location.pathname + document.location.search, {
+                            "hitCallback": hitBack
+                        }
+                    );
+
+                    /* Run hitCallback if GA takes too long */
+                    setTimeout(hitBack, 1000);
+
+                    /* Prevent standard click */
+                    event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+                }
+            }
+
+        }
+    }
+
+    /* Attach the event to all clicks in the document after page has loaded */
+    var w = window;
+    w.addEventListener ? w.addEventListener("load", function() {
+        document.body.addEventListener("click", _gaLt, !1)
+    }, !1) : w.attachEvent && w.attachEvent("onload", function() {
+        document.body.attachEvent("onclick", _gaLt)
+    });
+</script>
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+	jQuery(document).ready(function() {
+
+	    jQuery('.backtotop').click(function(event) {
+	        event.preventDefault();
+	        jQuery('html, body').animate({scrollTop: 0}, 2500);
+	        jQuery("#skip").focus();
+	        return false;
+	    })
+	});
+</script>
+
+
+<script language="JavaScript" type="text/JavaScript">
+// jQuery for page scrolling feature - requires jQuery Easing plugin
+jQuery(function() {
+    jQuery('a.page-scroll').bind('click', function(event) {
+        var $anchor = jQuery(this);
+        jQuery('html, body').stop().animate({
+            scrollTop: jQuery($anchor.attr('href')).offset().top
+        }, 1500, 'easeInOutExpo');
+        event.preventDefault();
+    });
+});
+</script>
+
+
+</body>
+
+</html>
